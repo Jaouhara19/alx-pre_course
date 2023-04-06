@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "ALX"
-school
-alx
+school "#!/bin/bash" "echo "School""
+alx #!/bin/bash" "echo "ALX""
+"#!/bin/bash" and "echo "School""
